@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+.btn_container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width:6rem;
+    height: 6rem;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 1rem;
+}
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.purple{
+    background-color: #919ff9;
+}
+.userblink{
+    background-color: green;
+}
+.gameblink{
+    background-color: white;
+}
